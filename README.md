@@ -1,5 +1,5 @@
 # My-1st-Repository-
-Mini-Project (python-Calculator) By using Conditions....
+Mini-Project (python-Calculator) By using Conditions...
 # Lets build A Calculator
 first = input("Enter first Number : ")
 operator = input("Enter operator (+,-,*,/,% )")
